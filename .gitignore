@@ -1,0 +1,17 @@
+bin/
+dist/
+coverage.out
+coverage.html
+*.prof
+*.trace
+__pycache__/
+*.py[cod]
+
+# Local experiment output. Keep documented summaries in Git.
+results/*.json
+results/*.jsonl
+results/*.csv
+
+.env
+.idea/
+.vscode/
